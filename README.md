@@ -9,3 +9,11 @@ Pensando no cenário da KEEVOTEC, precisamos desenvolver uma aplicação WEB que
 
 • Utilizar tecnologia que se sentir melhor familiarizado Sua apresentação será através de compartilhamento de tela para nossa visualização. 
 
+# Requisitos
+
+- Django versão 4.1
+- Python 3.10.6
+
+# Instruções
+
+- Execute a instrução "python manage.py runserver" no diretório "../estoque"
