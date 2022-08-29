@@ -11,7 +11,7 @@ Pensando no cenário da KEEVOTEC, precisamos desenvolver uma aplicação WEB que
 
 # Requisitos
 
-- Django versão 4.1
+- Django 4.1
 - Python 3.10.6
 
 # Instruções
